@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(#bdbdc5, #e6c6c6, #bfe4bf);   
+}
+
+img{
+    border-radius: 10px;
+}
+.caixa{
+    font-size: 0.9em;
+    color: #262525;
+}
